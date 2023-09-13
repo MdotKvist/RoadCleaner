@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-nnmmnmn
+
 int main()
 {
     label:
