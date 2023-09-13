@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+nnmmnmn
 int main()
 {
     label:
@@ -13,7 +13,7 @@ int main()
 
     string type;
     // Definer om det er klip eller skrab
-    cout << "Vælg klip eller skrab ";
+    cout << "VÃ¦lg klip eller skrab ";
     cin >> type;
 
     if (type == "klip") {
