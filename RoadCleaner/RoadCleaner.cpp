@@ -13,7 +13,7 @@ int main()
 
     string type;
     // Definer om det er klip eller skrab
-    cout << "Vælg klip eller skrab ";
+    cout << "V\x91lg klip eller skrab ";
     cin >> type;
 
     if (type == "klip") {
